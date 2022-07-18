@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Holo_wo, an "菜鸡" C/C++ programmer
+### Hi there 👋,I'm Holo_wo, 一只野生菜鸡c-cpp程序员
 
 ![](https://github-readme-stats.vercel.app/api?username=HLhuanglang)
 &nbsp;
