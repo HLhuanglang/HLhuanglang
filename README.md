@@ -6,7 +6,8 @@
 - 爱打游戏
 - 弹吉他唱歌画画
 
-技术上有两把刷子但是没毛:
+
+个人技术栈：
 
 - **平台:**
 <code><img src="https://hl1998-1255562705.cos.ap-shanghai.myqcloud.com/Img/linux.svg" width="24"/></code><code><img src="https://hl1998-1255562705.cos.ap-shanghai.myqcloud.com/Img/macos.svg" width="24"/></code><code><img src="https://hl1998-1255562705.cos.ap-shanghai.myqcloud.com/Img/windows.svg" width="24"/></code>
